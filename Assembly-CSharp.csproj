@@ -53,8 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Rotador.cs" />
+     <Compile Include="Assets\Scripts\TiempoVidaSonido.cs" />
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>E:/Dev/unity/New Unity Project2/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>

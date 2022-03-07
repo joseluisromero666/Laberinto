@@ -8,6 +8,7 @@ TagManager:
   - RecolectableNegativo
   - RecolectbleTiempo
   - RecolectableTiempoNegativo
+  - Pared
   layers:
   - Default
   - TransparentFX
