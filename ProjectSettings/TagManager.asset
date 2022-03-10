@@ -12,6 +12,7 @@ TagManager:
   - Rampa
   - Tablero
   - Llave
+  - RecolectableTiempo
   layers:
   - Default
   - TransparentFX

@@ -20,7 +20,7 @@ PrefabInstance:
     - target: {fileID: 6348601685215721849, guid: 0bb673f1dd472474b930f4b6788191f0,
         type: 3}
       propertyPath: m_TagString
-      value: RecolectbleTiempo
+      value: RecolectableTiempo
       objectReference: {fileID: 0}
     - target: {fileID: 6348601685215880537, guid: 0bb673f1dd472474b930f4b6788191f0,
         type: 3}
