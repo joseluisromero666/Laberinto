@@ -9,6 +9,9 @@ TagManager:
   - RecolectbleTiempo
   - RecolectableTiempoNegativo
   - Pared
+  - Rampa
+  - Tablero
+  - Llave
   layers:
   - Default
   - TransparentFX
