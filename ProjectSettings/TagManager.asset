@@ -13,6 +13,8 @@ TagManager:
   - Tablero
   - Llave
   - RecolectableTiempo
+  - hueco
+  - SpawnPoint
   layers:
   - Default
   - TransparentFX
